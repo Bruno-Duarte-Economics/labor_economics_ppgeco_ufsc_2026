@@ -1,0 +1,7 @@
+pandas
+numpy
+pyarrow
+py7zr
+pysyncon
+matplotlib
+openpyxl
